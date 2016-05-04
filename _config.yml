@@ -1,5 +1,8 @@
+name: alicissimo
+favicon: null
+layout_spectrum: 0.4683665807824582
+typography_spectrum: 0.6102295848540962
 title: 'Landscape & Botany'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.587940061930567
-  brandStrength: 0.5665894271805882
-  lightness: 0.7739676956553012
   brandColors:
     - '#3B2D0A'
     - '#7D083D'
     - '#BA3971'
     - '#CB9847'
     - '#FFFFC1'
+  brandStrength: 0.5665894271805882
+  lightness: 0.7739676956553012
+  saturation: 0.587940061930567
   rhythmicContrast: 0.7062413892708719
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: alicissimo
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6102295848540962
-layout_spectrum: 0.4683665807824582
+purpose: []
