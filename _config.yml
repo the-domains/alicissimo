@@ -1,6 +1,6 @@
 name: Alicissimo Admires Plants
 favicon: null
-layout_spectrum: 0.96877
+layout_spectrum: 0.65019
 typography_spectrum: 0.6102295848540962
 title: 'Landscape & Botany'
 collections:
@@ -35,7 +35,7 @@ color:
     - '#CB9847'
     - '#FFFFC1'
   brandStrength: 0.5665894271805882
-  lightness: 0.7739676956553012
-  saturation: 0.587940061930567
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
