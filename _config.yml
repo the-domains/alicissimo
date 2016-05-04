@@ -1,41 +1,41 @@
-name: Alicissimo Admires Plants
-favicon: null
-layout_spectrum: 0.65019
-typography_spectrum: 0.18867
 title: 'Landscape & Botany'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.6170848
+  brandStrength: 0.25
+  lightness: 0.6493428
+  brandColors:
+    - '#C1CFD0'
+    - '#939DA6'
+    - '#686D82'
+    - '#50361B'
+    - '#B84646'
+  rhythmicContrast: 0.3410991
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Alicissimo Admires Plants
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3B2D0A'
-    - '#7D083D'
-    - '#BA3971'
-    - '#CB9847'
-    - '#FFFFC1'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.09498204
+layout_spectrum: 0.8416965
